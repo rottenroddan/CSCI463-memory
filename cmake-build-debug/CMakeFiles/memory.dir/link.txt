@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/memory.dir/main.cpp.o CMakeFiles/memory.dir/hex.cpp.o CMakeFiles/memory.dir/memory.cpp.o  -o memory 

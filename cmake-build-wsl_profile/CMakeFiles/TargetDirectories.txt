@@ -1,0 +1,3 @@
+/mnt/c/Users/steve/CLionProjects/memory/cmake-build-wsl_profile/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/steve/CLionProjects/memory/cmake-build-wsl_profile/CMakeFiles/memory.dir
+/mnt/c/Users/steve/CLionProjects/memory/cmake-build-wsl_profile/CMakeFiles/edit_cache.dir
