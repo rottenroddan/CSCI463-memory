@@ -1,2 +1,2 @@
-This is a random test file. I hope to print shit from this one day. 
+This is a random test file. I hope to print stuff from this one day. 
 I don't see why it wouldn't work.
